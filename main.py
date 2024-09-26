@@ -1,3 +1,3 @@
-def add(a,b):
-    return a-b
-print(add(1,2))
+def branch1(a,b):
+    return a+b
+print(branch1(1,2))
