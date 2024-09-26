@@ -1,1 +1,1 @@
-file1 feature/branch1 modified
+file1 feature/branch1 modified from branch1
